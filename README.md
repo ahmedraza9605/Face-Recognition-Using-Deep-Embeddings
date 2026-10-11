@@ -126,7 +126,6 @@ The formula is:
 $$
 \operatorname{CosineSimilarity}(A,B)=\frac{A\cdot B}{\|A\|\|B\|}
 $$
-
 Where:
 
 - \(A\) = embedding extracted from the live face.
