@@ -123,10 +123,9 @@ Cosine similarity measures the similarity between two numerical vectors.
 
 The formula is:
 
-\[
-\text{Cosine Similarity}(A,B)=
-\frac{A\cdot B}{\|A\|\|B\|}
-\]
+$$
+\operatorname{CosineSimilarity}(A,B)=\frac{A\cdot B}{\|A\|\|B\|}
+$$
 
 Where:
 
