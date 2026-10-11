@@ -151,7 +151,7 @@ Cosine similarity measures the similarity between two numerical vectors by calcu
 The formula is:
 
 $$
-\operatorname{CosineSimilarity}(A,B)=\frac{A\cdot B}{\|A\|\|B\|}
+\text{Cosine Similarity}(A,B)=\frac{A\cdot B}{\|A\|\|B\|}
 $$
 
 **Where:**
@@ -159,8 +159,8 @@ $$
 - \(A\) = embedding extracted from the live face.
 - \(B\) = embedding stored in the database.
 - \(A\cdot B\) = dot product of the two embeddings.
-- \(\|A\|\) = magnitude (Euclidean norm) of vector \(A\).
-- \(\|B\|\) = magnitude (Euclidean norm) of vector \(B\).
+- \(\|A\|\) = magnitude of vector \(A\).
+- \(\|B\|\) = magnitude of vector \(B\).
 
 ### Interpretation of Similarity Scores
 
